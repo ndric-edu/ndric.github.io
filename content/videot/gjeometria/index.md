@@ -1,0 +1,1 @@
+Duke ardhur se shpejti.) 
