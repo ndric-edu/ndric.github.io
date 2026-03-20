@@ -7,4 +7,4 @@ hide: [graph, toc]
 
 ndriç asht hapsinë ku ti mundesh me zgjedh ritmin e zgjerimit të dijës tane.
 
-[Harta e koncepteve →](https://ndric-edu.github.io/harta_koncepteve)
+<a href="https://ndric-edu.github.io/harta_koncepteve" target="_blank">Harta e koncepteve →</a>
